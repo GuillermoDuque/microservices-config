@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "prod loans"
+  message: "prod loans ahora si que si"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
